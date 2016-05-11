@@ -1,0 +1,1 @@
+In this project we are trying to understand and implement the GPU multitasking techniques described in the "Efficient GPU Spatial-Temporal Multitasking" by Yun Liang and others, published in the IEEE magazine in March 2015.
