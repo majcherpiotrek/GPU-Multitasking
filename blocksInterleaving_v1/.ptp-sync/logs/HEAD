@@ -113,3 +113,396 @@ e7a8a4c53c371dc2d1ef8594d8018d97ac759025 78e992b46b0828849266ddbb710c33467b063db
 1684fd510915994c34539853d3fb93cfe63564e8 3138a4b24dec8b5f7646b7d8be76b87b0c1abe37 piotr <piotr@piotr-K56CB> 1462986972 +0200	commit: Eclipse Automatic Commit
 3138a4b24dec8b5f7646b7d8be76b87b0c1abe37 134ab45b9fe57e024835d19779d92f35a733997e piotr <piotr@piotr-K56CB> 1462986977 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
 134ab45b9fe57e024835d19779d92f35a733997e b2f70d6d096f98729f79e6eb18fea7bf5225d222 piotr <piotr@piotr-K56CB> 1462986978 +0200	commit: Eclipse Automatic Commit
+b2f70d6d096f98729f79e6eb18fea7bf5225d222 77a451681d043bc6432ee572f4a8c2c905edfe68 piotrmajcher94 <piotr.majcher94@gmail.com> 1463666081 +0200	commit: Eclipse Automatic Commit
+77a451681d043bc6432ee572f4a8c2c905edfe68 555ed392c671bae48144402335f296c822ee91d2 piotrmajcher94 <piotr.majcher94@gmail.com> 1463666083 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+555ed392c671bae48144402335f296c822ee91d2 5fc2371390eb25979d1069c64f56229b32427029 piotrmajcher94 <piotr.majcher94@gmail.com> 1463666084 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+5fc2371390eb25979d1069c64f56229b32427029 dddfcf810a838c33ae8a287cf2d4a0b8311ba31a piotrmajcher94 <piotr.majcher94@gmail.com> 1463666084 +0200	commit: Eclipse Automatic Commit
+dddfcf810a838c33ae8a287cf2d4a0b8311ba31a b19f10be80ac16d99faf1b3d7eec1ddbaa06585a piotrmajcher94 <piotr.majcher94@gmail.com> 1463666089 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b19f10be80ac16d99faf1b3d7eec1ddbaa06585a f0fd1bfa0e6b9d95169fb908a496620cb5c2b9b3 piotrmajcher94 <piotr.majcher94@gmail.com> 1463666107 +0200	commit: Eclipse Automatic Commit
+f0fd1bfa0e6b9d95169fb908a496620cb5c2b9b3 48289b4427d889a5448a9e2f9c8a4b617c1fa4e0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464792743 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+48289b4427d889a5448a9e2f9c8a4b617c1fa4e0 cbbbe4872bfc71b4339a5ba09fd0b7f5a1d8a94f piotrmajcher94 <piotr.majcher94@gmail.com> 1464792744 +0200	commit: Eclipse Automatic Commit
+cbbbe4872bfc71b4339a5ba09fd0b7f5a1d8a94f 9d3c26e9f2481fb9cdb521241babd2510d66d84d piotrmajcher94 <piotr.majcher94@gmail.com> 1464792749 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+9d3c26e9f2481fb9cdb521241babd2510d66d84d e1bdfe7133bc0338179e34594234ed6d80ad11bf piotrmajcher94 <piotr.majcher94@gmail.com> 1464792789 +0200	commit: Eclipse Automatic Commit
+e1bdfe7133bc0338179e34594234ed6d80ad11bf d2b4f20cb8fc3f9437daab0379126181c2db8dbd piotrmajcher94 <piotr.majcher94@gmail.com> 1464795017 +0200	commit: Eclipse Automatic Commit
+d2b4f20cb8fc3f9437daab0379126181c2db8dbd db98cefef8cc7e2bf5ff7144e316fbb4f4e07bbc piotrmajcher94 <piotr.majcher94@gmail.com> 1464795019 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+db98cefef8cc7e2bf5ff7144e316fbb4f4e07bbc 2fdfaf40791390088dbd5718546e647b5d62e8d2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464814865 +0200	commit: Eclipse Automatic Commit
+2fdfaf40791390088dbd5718546e647b5d62e8d2 e1aa96ec646c05999f87ee9f6867d5498fd707eb piotrmajcher94 <piotr.majcher94@gmail.com> 1464814868 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+e1aa96ec646c05999f87ee9f6867d5498fd707eb 6cdb79abe22833743a5d4f12db8efed285675b3c piotrmajcher94 <piotr.majcher94@gmail.com> 1464814869 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6cdb79abe22833743a5d4f12db8efed285675b3c 7e71e8190a7b22bde86f9dd5f0156c398effab6d piotrmajcher94 <piotr.majcher94@gmail.com> 1464814878 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7e71e8190a7b22bde86f9dd5f0156c398effab6d d77082e60f0763970dbfe131238f3707264a8b34 piotrmajcher94 <piotr.majcher94@gmail.com> 1464814919 +0200	commit: Eclipse Automatic Commit
+d77082e60f0763970dbfe131238f3707264a8b34 76d301d4c4578dd5f2f49adc0fcfd7508b5353c7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464815016 +0200	commit: Eclipse Automatic Commit
+76d301d4c4578dd5f2f49adc0fcfd7508b5353c7 473f766126792b9fe7eee6b341d8a7bb42df251a piotrmajcher94 <piotr.majcher94@gmail.com> 1464815018 +0200	commit: Eclipse Automatic Commit
+473f766126792b9fe7eee6b341d8a7bb42df251a c7cf7593d3493c8e55d49c90e2f39f3fd1ca301b piotrmajcher94 <piotr.majcher94@gmail.com> 1464817999 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+c7cf7593d3493c8e55d49c90e2f39f3fd1ca301b 9a8cde6ba0e92ea9a4274e638593b85059794403 piotrmajcher94 <piotr.majcher94@gmail.com> 1464817999 +0200	commit: Eclipse Automatic Commit
+9a8cde6ba0e92ea9a4274e638593b85059794403 7472071a6f12e817da0a0843c13008f297636c19 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818004 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7472071a6f12e817da0a0843c13008f297636c19 3f82628496c75ea01033048aec820ae46cab8699 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818012 +0200	commit: Eclipse Automatic Commit
+3f82628496c75ea01033048aec820ae46cab8699 47355fdf2326ac804cac204e5e238d56d3835988 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818018 +0200	commit: Eclipse Automatic Commit
+47355fdf2326ac804cac204e5e238d56d3835988 b2590affd7b168707782de356da476b578eae167 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818024 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b2590affd7b168707782de356da476b578eae167 37ede043ce32adf5afd8e66ca222a1455b84e76e piotrmajcher94 <piotr.majcher94@gmail.com> 1464818024 +0200	commit: Eclipse Automatic Commit
+37ede043ce32adf5afd8e66ca222a1455b84e76e 528b0134e4fe8de05f463eb1205555e53ef01349 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818072 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+528b0134e4fe8de05f463eb1205555e53ef01349 41b0c4fecb4983d574c04c6de7c54d5b369832c3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818073 +0200	commit: Eclipse Automatic Commit
+41b0c4fecb4983d574c04c6de7c54d5b369832c3 cc3a5f2adca1ada5f64739f4139903c382e77203 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818078 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+cc3a5f2adca1ada5f64739f4139903c382e77203 68f107a268c38504712356d424feb73afc28925f piotrmajcher94 <piotr.majcher94@gmail.com> 1464818087 +0200	commit: Eclipse Automatic Commit
+68f107a268c38504712356d424feb73afc28925f 2179a1ad5e48aad73393feeff18ee1f7134a53af piotrmajcher94 <piotr.majcher94@gmail.com> 1464818094 +0200	commit: Eclipse Automatic Commit
+2179a1ad5e48aad73393feeff18ee1f7134a53af b0438961d5a62f97408dfb73a713fbe00ee021ef piotrmajcher94 <piotr.majcher94@gmail.com> 1464818100 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b0438961d5a62f97408dfb73a713fbe00ee021ef da2357c7859aeb6e37c06022ee14575e502cdb22 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818100 +0200	commit: Eclipse Automatic Commit
+da2357c7859aeb6e37c06022ee14575e502cdb22 a147ef7f27d47ce41370915b5f968436eb3b4508 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818155 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a147ef7f27d47ce41370915b5f968436eb3b4508 5405dfa130d6c5c6a42ffcbc1dec675cabeb45c9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818155 +0200	commit: Eclipse Automatic Commit
+5405dfa130d6c5c6a42ffcbc1dec675cabeb45c9 de000e1ac5ea65858a17cd3468687256866fc6bc piotrmajcher94 <piotr.majcher94@gmail.com> 1464818161 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+de000e1ac5ea65858a17cd3468687256866fc6bc 57707568cd59056d165e1be7d4fa1339406d4461 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818198 +0200	commit: Eclipse Automatic Commit
+57707568cd59056d165e1be7d4fa1339406d4461 06782ef3aafc22d7df2036614bccb6421fdd0dfa piotrmajcher94 <piotr.majcher94@gmail.com> 1464818203 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+06782ef3aafc22d7df2036614bccb6421fdd0dfa 435275496502142ab98fb0b4a422ce74e650a749 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818203 +0200	commit: Eclipse Automatic Commit
+435275496502142ab98fb0b4a422ce74e650a749 855ffd67a30116158a01de9b36597facc9eab826 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818271 +0200	commit: Eclipse Automatic Commit
+855ffd67a30116158a01de9b36597facc9eab826 0ad3a6f4de1425c565837f81be1e397e0f319684 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818277 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+0ad3a6f4de1425c565837f81be1e397e0f319684 98e2c184b556ca46ba280a1d4176c4b31bee91de piotrmajcher94 <piotr.majcher94@gmail.com> 1464818277 +0200	commit: Eclipse Automatic Commit
+98e2c184b556ca46ba280a1d4176c4b31bee91de 2d5118973cea072c987a5bc71c71f40a81b2b1d1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818285 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2d5118973cea072c987a5bc71c71f40a81b2b1d1 e8deb875a10db842e5752b642ee625e5d2212ed6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818333 +0200	commit: Eclipse Automatic Commit
+e8deb875a10db842e5752b642ee625e5d2212ed6 1436ddaabd2de51f84c4fd46459202e6ccfe264e piotrmajcher94 <piotr.majcher94@gmail.com> 1464818349 +0200	commit: Eclipse Automatic Commit
+1436ddaabd2de51f84c4fd46459202e6ccfe264e c94729a453a84242189b58dcbab00c59fb74b84d piotrmajcher94 <piotr.majcher94@gmail.com> 1464818354 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+c94729a453a84242189b58dcbab00c59fb74b84d 9d592d703f1b492e7dcb23f6de3638ae04e8ffa8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818355 +0200	commit: Eclipse Automatic Commit
+9d592d703f1b492e7dcb23f6de3638ae04e8ffa8 6d6edbbdb5f8474929d9725b0ee62924866914e9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818433 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6d6edbbdb5f8474929d9725b0ee62924866914e9 49c21693abb20d9d7e7ee89ab58f1a5af0c849fb piotrmajcher94 <piotr.majcher94@gmail.com> 1464818434 +0200	commit: Eclipse Automatic Commit
+49c21693abb20d9d7e7ee89ab58f1a5af0c849fb b8c3ac55e390308de11c33133822e38f85da27cc piotrmajcher94 <piotr.majcher94@gmail.com> 1464818439 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b8c3ac55e390308de11c33133822e38f85da27cc 2129d9868363e65d46228c400c16c26d63dbc2fd piotrmajcher94 <piotr.majcher94@gmail.com> 1464818464 +0200	commit: Eclipse Automatic Commit
+2129d9868363e65d46228c400c16c26d63dbc2fd c5ae80dcf8e4956c0d422faca6e535e5793466a5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818484 +0200	commit: Eclipse Automatic Commit
+c5ae80dcf8e4956c0d422faca6e535e5793466a5 824b07ec65e73ad69a495a192c2b4c522819847e piotrmajcher94 <piotr.majcher94@gmail.com> 1464818489 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+824b07ec65e73ad69a495a192c2b4c522819847e 6234557c6cdac6bb20f8daaaa3b4ae02af9e7bc5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818490 +0200	commit: Eclipse Automatic Commit
+6234557c6cdac6bb20f8daaaa3b4ae02af9e7bc5 729a4dee4db143c48db4a4b8a4221deca9ab79ce piotrmajcher94 <piotr.majcher94@gmail.com> 1464818562 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+729a4dee4db143c48db4a4b8a4221deca9ab79ce d668022ea79a9c3bedc525fe42f85c17cb00569e piotrmajcher94 <piotr.majcher94@gmail.com> 1464818563 +0200	commit: Eclipse Automatic Commit
+d668022ea79a9c3bedc525fe42f85c17cb00569e 6eb1af58cab0b5591096598601b241dabdafe7a1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818569 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6eb1af58cab0b5591096598601b241dabdafe7a1 90f7eb062552d4f486ac612ab338896ce0268c76 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818581 +0200	commit: Eclipse Automatic Commit
+90f7eb062552d4f486ac612ab338896ce0268c76 a9536e893f772ea3fcf202255e202f22ac2fefbb piotrmajcher94 <piotr.majcher94@gmail.com> 1464818587 +0200	commit: Eclipse Automatic Commit
+a9536e893f772ea3fcf202255e202f22ac2fefbb f66010d0649713bf362e06559b2dacb43c32d88a piotrmajcher94 <piotr.majcher94@gmail.com> 1464818678 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f66010d0649713bf362e06559b2dacb43c32d88a d60766328c31c45fa813623da2e48d49cd6871c7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818678 +0200	commit: Eclipse Automatic Commit
+d60766328c31c45fa813623da2e48d49cd6871c7 1eeb11e2dc5318c4ff601887ed80bfcd2b234ec9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818684 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+1eeb11e2dc5318c4ff601887ed80bfcd2b234ec9 138a346c7abf6569b5f75cb8064e237b6f9495f7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818695 +0200	commit: Eclipse Automatic Commit
+138a346c7abf6569b5f75cb8064e237b6f9495f7 64907a1fbf5aa5cd7c37b2964fb3119157983e43 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818708 +0200	commit: Eclipse Automatic Commit
+64907a1fbf5aa5cd7c37b2964fb3119157983e43 6f80472eb91f515e782fd51f7e0b38feebdfa2e7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818713 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6f80472eb91f515e782fd51f7e0b38feebdfa2e7 65e20b64267478ecc4b1063ff136b0745dd710a3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818714 +0200	commit: Eclipse Automatic Commit
+65e20b64267478ecc4b1063ff136b0745dd710a3 4c2d72ad042cb24b0192a86a06da0aacc16ca31d piotrmajcher94 <piotr.majcher94@gmail.com> 1464818825 +0200	commit: Eclipse Automatic Commit
+4c2d72ad042cb24b0192a86a06da0aacc16ca31d cac77949497113b0a0cc8557bbe9eb112d8d5208 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818826 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+cac77949497113b0a0cc8557bbe9eb112d8d5208 3ced9145bab261d3e3a8dfd2a53156ce9eff7392 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818826 +0200	commit: Eclipse Automatic Commit
+3ced9145bab261d3e3a8dfd2a53156ce9eff7392 66b103c1a760de1a8c3141ac44eedb58399703f4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818831 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+66b103c1a760de1a8c3141ac44eedb58399703f4 5ca0905ae4301ee3f060d990faa6d6f8c9faf04f piotrmajcher94 <piotr.majcher94@gmail.com> 1464818838 +0200	commit: Eclipse Automatic Commit
+5ca0905ae4301ee3f060d990faa6d6f8c9faf04f c2d2fb6024c44b448265fe860b748c6cd477a44a piotrmajcher94 <piotr.majcher94@gmail.com> 1464818849 +0200	commit: Eclipse Automatic Commit
+c2d2fb6024c44b448265fe860b748c6cd477a44a 9f8b646a1c5018358421c6d0b7060374e7c73655 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818854 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+9f8b646a1c5018358421c6d0b7060374e7c73655 ae20509175b777f9adfc084f03cf9be7256307d2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818855 +0200	commit: Eclipse Automatic Commit
+ae20509175b777f9adfc084f03cf9be7256307d2 2ed026b1ac247e4ecb30abc9165d02062f5cdeda piotrmajcher94 <piotr.majcher94@gmail.com> 1464818982 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2ed026b1ac247e4ecb30abc9165d02062f5cdeda dfbb525a975b2201fab099e4e7432d3d65a773f9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818982 +0200	commit: Eclipse Automatic Commit
+dfbb525a975b2201fab099e4e7432d3d65a773f9 d7f4528a3c01a11fe388b32b6d5395295e0f83c8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818987 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d7f4528a3c01a11fe388b32b6d5395295e0f83c8 32f416b8a94710620118633be65c5646acb6d2d5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464818991 +0200	commit: Eclipse Automatic Commit
+32f416b8a94710620118633be65c5646acb6d2d5 d536422a2b5cc2969374ee57cbc2711761894e7e piotrmajcher94 <piotr.majcher94@gmail.com> 1464819028 +0200	commit: Eclipse Automatic Commit
+d536422a2b5cc2969374ee57cbc2711761894e7e 898f570f86c8ba685662035f6696c6ba4231fc51 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819030 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+898f570f86c8ba685662035f6696c6ba4231fc51 ab074c254217a472ad3f914298ff5e2d5e856479 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819031 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+ab074c254217a472ad3f914298ff5e2d5e856479 6c4a6ea4d28dcbd56294067ed93206fae636e818 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819032 +0200	commit: Eclipse Automatic Commit
+6c4a6ea4d28dcbd56294067ed93206fae636e818 6e9edd27178c8f18209f175682cbb8f4a903c9fc piotrmajcher94 <piotr.majcher94@gmail.com> 1464819037 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6e9edd27178c8f18209f175682cbb8f4a903c9fc 0741b238a21677807d78aab42235784e05c82417 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819046 +0200	commit: Eclipse Automatic Commit
+0741b238a21677807d78aab42235784e05c82417 7b401cffb69cdfbf90f7830ddd933f7d830ed584 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819131 +0200	commit: Eclipse Automatic Commit
+7b401cffb69cdfbf90f7830ddd933f7d830ed584 c3686fe3c7386482c40c7f6991a93ba509dae74c piotrmajcher94 <piotr.majcher94@gmail.com> 1464819135 +0200	commit: Eclipse Automatic Commit
+c3686fe3c7386482c40c7f6991a93ba509dae74c b7dfb89c937d795d30ec9116d05b7437a29a8846 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819337 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b7dfb89c937d795d30ec9116d05b7437a29a8846 92e5405b428d8fb9eb34109b5bc15747d215552b piotrmajcher94 <piotr.majcher94@gmail.com> 1464819337 +0200	commit: Eclipse Automatic Commit
+92e5405b428d8fb9eb34109b5bc15747d215552b 210035f74533c41b6aca3afac1092326401852eb piotrmajcher94 <piotr.majcher94@gmail.com> 1464819342 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+210035f74533c41b6aca3afac1092326401852eb 2ff02832dd48174724513024ce549d77a919825d piotrmajcher94 <piotr.majcher94@gmail.com> 1464819349 +0200	commit: Eclipse Automatic Commit
+2ff02832dd48174724513024ce549d77a919825d 08f7da0f0ddba9b25381a192e1c047f073a8dec0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819362 +0200	commit: Eclipse Automatic Commit
+08f7da0f0ddba9b25381a192e1c047f073a8dec0 f64a553153f015a2a4116f2140feb15b0a7f5b71 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819367 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f64a553153f015a2a4116f2140feb15b0a7f5b71 3b3e2a82077f68ea5123b9bb8f2aac673145b7dc piotrmajcher94 <piotr.majcher94@gmail.com> 1464819368 +0200	commit: Eclipse Automatic Commit
+3b3e2a82077f68ea5123b9bb8f2aac673145b7dc 271813789e7e268becca0f4b1367aa01e9eed890 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819480 +0200	commit: Eclipse Automatic Commit
+271813789e7e268becca0f4b1367aa01e9eed890 73e3fcbfdd78e7120fea779dc0b31adba4d8c316 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819480 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+73e3fcbfdd78e7120fea779dc0b31adba4d8c316 9d060cd11d661a1bacd3f4d9b8e3cd404c6747ad piotrmajcher94 <piotr.majcher94@gmail.com> 1464819481 +0200	commit: Eclipse Automatic Commit
+9d060cd11d661a1bacd3f4d9b8e3cd404c6747ad 7e8c3c168a46e405d858ac67e97e126519611e3a piotrmajcher94 <piotr.majcher94@gmail.com> 1464819486 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7e8c3c168a46e405d858ac67e97e126519611e3a 33905bac0f532ff51a936dad406d86e66bf2f087 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819612 +0200	commit: Eclipse Automatic Commit
+33905bac0f532ff51a936dad406d86e66bf2f087 f120c00b042705937ef2cdf97aa27aab3c36420b piotrmajcher94 <piotr.majcher94@gmail.com> 1464819616 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+f120c00b042705937ef2cdf97aa27aab3c36420b ff249b21e04e516fe669527f91923c3fecd025fa piotrmajcher94 <piotr.majcher94@gmail.com> 1464819617 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+ff249b21e04e516fe669527f91923c3fecd025fa 2ce2684b5c50b6f482d8205a15574d5554957553 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819623 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2ce2684b5c50b6f482d8205a15574d5554957553 fe715a25b260ce77de120676d7b3bfa87d6bb6a8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819630 +0200	commit: Eclipse Automatic Commit
+fe715a25b260ce77de120676d7b3bfa87d6bb6a8 f7c936cdc934959e652f959d3ecf16bfe8a92dfe piotrmajcher94 <piotr.majcher94@gmail.com> 1464819635 +0200	commit: Eclipse Automatic Commit
+f7c936cdc934959e652f959d3ecf16bfe8a92dfe 2498fe991c51ed7fb61972e2a48f451b8ea42bf7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819930 +0200	commit: Eclipse Automatic Commit
+2498fe991c51ed7fb61972e2a48f451b8ea42bf7 1891b010d4a131e0ea82b8a036f1f62541bf72e2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819931 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+1891b010d4a131e0ea82b8a036f1f62541bf72e2 284f246c3470f22e075baa94f770e63d62279f4a piotrmajcher94 <piotr.majcher94@gmail.com> 1464819932 +0200	commit: Eclipse Automatic Commit
+284f246c3470f22e075baa94f770e63d62279f4a 29bacc93d3560e491d18aa2bc35cbe31a0c3244f piotrmajcher94 <piotr.majcher94@gmail.com> 1464819937 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+29bacc93d3560e491d18aa2bc35cbe31a0c3244f dd0e1f0e41fb64622549c90da5565a9db50c1efe piotrmajcher94 <piotr.majcher94@gmail.com> 1464819941 +0200	commit: Eclipse Automatic Commit
+dd0e1f0e41fb64622549c90da5565a9db50c1efe e525a754482104e8223f93531e7f98c8871aaee4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819948 +0200	commit: Eclipse Automatic Commit
+e525a754482104e8223f93531e7f98c8871aaee4 4cacd1f556c18977ae65af33902ca2e9d78f59e8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464819954 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+4cacd1f556c18977ae65af33902ca2e9d78f59e8 2cc9242d23bb0080b9ac4c5bd0baa64a5c0de49b piotrmajcher94 <piotr.majcher94@gmail.com> 1464819954 +0200	commit: Eclipse Automatic Commit
+2cc9242d23bb0080b9ac4c5bd0baa64a5c0de49b 2c43763724d50f49fbc406fb7bbad44e724faa67 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820295 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2c43763724d50f49fbc406fb7bbad44e724faa67 58f8cb875269c3eb8d583335d255eb952fbbd457 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820295 +0200	commit: Eclipse Automatic Commit
+58f8cb875269c3eb8d583335d255eb952fbbd457 a96ca7f9beaf62048b746b193afe4f6a01e9b15e piotrmajcher94 <piotr.majcher94@gmail.com> 1464820301 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a96ca7f9beaf62048b746b193afe4f6a01e9b15e 1c80fb2ca576ad9fa775ebf9b10a069dc0d26b58 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820313 +0200	commit: Eclipse Automatic Commit
+1c80fb2ca576ad9fa775ebf9b10a069dc0d26b58 137fa74cdd02987b519fce2d8e28b6324d4d30da piotrmajcher94 <piotr.majcher94@gmail.com> 1464820326 +0200	commit: Eclipse Automatic Commit
+137fa74cdd02987b519fce2d8e28b6324d4d30da e2746423668f43842e2d60c26ac9161c8c30fca6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820332 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e2746423668f43842e2d60c26ac9161c8c30fca6 dcbbb046c3169abbbaf315348676a242902bd408 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820332 +0200	commit: Eclipse Automatic Commit
+dcbbb046c3169abbbaf315348676a242902bd408 3124df97d1247c680f63be8f1d151423846756e6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820426 +0200	commit: Eclipse Automatic Commit
+3124df97d1247c680f63be8f1d151423846756e6 a17d0cca3877f7d97e98b53282378461db166cb7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820428 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a17d0cca3877f7d97e98b53282378461db166cb7 ae8e2a148f320c241ea0e1a5d659184139f4d386 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820428 +0200	commit: Eclipse Automatic Commit
+ae8e2a148f320c241ea0e1a5d659184139f4d386 ec4639c2cf88efbd65c8fb37d95eb710dc6cee91 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820434 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+ec4639c2cf88efbd65c8fb37d95eb710dc6cee91 48d11d0c69a834e50a0ff5623a4ea034aa6ca5ba piotrmajcher94 <piotr.majcher94@gmail.com> 1464820484 +0200	commit: Eclipse Automatic Commit
+48d11d0c69a834e50a0ff5623a4ea034aa6ca5ba 76a9acac72a9abb1cfb7d7e87f433fa2f104fa7c piotrmajcher94 <piotr.majcher94@gmail.com> 1464820486 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+76a9acac72a9abb1cfb7d7e87f433fa2f104fa7c a4142a4ddaae2312b8e904a99db5cd80b056d46a piotrmajcher94 <piotr.majcher94@gmail.com> 1464820487 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a4142a4ddaae2312b8e904a99db5cd80b056d46a ae502488081f4a0933d4c18a81271bdd2b094773 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820496 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+ae502488081f4a0933d4c18a81271bdd2b094773 5420ff10ce06223056833fd38dacc4ccd7e68e46 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820519 +0200	commit: Eclipse Automatic Commit
+5420ff10ce06223056833fd38dacc4ccd7e68e46 81934ccb0f3eff0961ee877d7c5c44e7706245a0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820601 +0200	commit: Eclipse Automatic Commit
+81934ccb0f3eff0961ee877d7c5c44e7706245a0 d010e9409941e262ff3636be4799e01d2a2359dd piotrmajcher94 <piotr.majcher94@gmail.com> 1464820608 +0200	commit: Eclipse Automatic Commit
+d010e9409941e262ff3636be4799e01d2a2359dd 304d46231f263cfd6502be8c5a7d4676e32a93fc piotrmajcher94 <piotr.majcher94@gmail.com> 1464820739 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+304d46231f263cfd6502be8c5a7d4676e32a93fc 8bbb7dc82f85035a9ce35aa17c8085c880c76b9c piotrmajcher94 <piotr.majcher94@gmail.com> 1464820739 +0200	commit: Eclipse Automatic Commit
+8bbb7dc82f85035a9ce35aa17c8085c880c76b9c 2c2e8cdae8c31b1d0245cb9fd4451958382f18d3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820750 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2c2e8cdae8c31b1d0245cb9fd4451958382f18d3 119b919af06a6df4fd5de75e19927426a5dc8bb0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820766 +0200	commit: Eclipse Automatic Commit
+119b919af06a6df4fd5de75e19927426a5dc8bb0 c00371dd26c615c4adefa43e56543a74776c4caf piotrmajcher94 <piotr.majcher94@gmail.com> 1464820775 +0200	commit: Eclipse Automatic Commit
+c00371dd26c615c4adefa43e56543a74776c4caf 2150e7d66e05d7ef2898670a2999816b02b2be1c piotrmajcher94 <piotr.majcher94@gmail.com> 1464820785 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2150e7d66e05d7ef2898670a2999816b02b2be1c 2ef5b1067c2409d057f318422fb64da729d325b7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820786 +0200	commit: Eclipse Automatic Commit
+2ef5b1067c2409d057f318422fb64da729d325b7 14ff4b163b616af6695fbbc3290b08c7c1a046e9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820868 +0200	commit: Eclipse Automatic Commit
+14ff4b163b616af6695fbbc3290b08c7c1a046e9 8c85713a96709153806635f025e38e92aabb4f41 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820874 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+8c85713a96709153806635f025e38e92aabb4f41 2e81fe5ed7b6f2387168b3f1e4cc6e1bab670523 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820874 +0200	commit: Eclipse Automatic Commit
+2e81fe5ed7b6f2387168b3f1e4cc6e1bab670523 4929b6949a1ef35fade3243d5fb50bb025453a08 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820890 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+4929b6949a1ef35fade3243d5fb50bb025453a08 99b254021d570b0d19b4b845f95bf52b52ef6ad0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464820992 +0200	commit: Eclipse Automatic Commit
+99b254021d570b0d19b4b845f95bf52b52ef6ad0 f1b38a642a9253cb20320a60a1238b7dd1a216ff piotrmajcher94 <piotr.majcher94@gmail.com> 1464821001 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+f1b38a642a9253cb20320a60a1238b7dd1a216ff d5ab85cfe56687644ab74dc44e4b12dc50554929 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821003 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d5ab85cfe56687644ab74dc44e4b12dc50554929 e5e20cfa9f1be09e158bccb1217ab18cca8d482e piotrmajcher94 <piotr.majcher94@gmail.com> 1464821013 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e5e20cfa9f1be09e158bccb1217ab18cca8d482e 7ed97fef087b585de372be6c216df4fb6c5df2c7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821043 +0200	commit: Eclipse Automatic Commit
+7ed97fef087b585de372be6c216df4fb6c5df2c7 090e75c2d1e1869a931fea944f44ff14907670b1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821063 +0200	commit: Eclipse Automatic Commit
+090e75c2d1e1869a931fea944f44ff14907670b1 146497e03a07f642706462473b05ceb53f7a8f2c piotrmajcher94 <piotr.majcher94@gmail.com> 1464821070 +0200	commit: Eclipse Automatic Commit
+146497e03a07f642706462473b05ceb53f7a8f2c 014717f0890d67ffe94abeacf3ac63b87b5024fb piotrmajcher94 <piotr.majcher94@gmail.com> 1464821173 +0200	commit: Eclipse Automatic Commit
+014717f0890d67ffe94abeacf3ac63b87b5024fb ecf1ed1443c77caa49f1864b16b955ef4b8d5b43 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821179 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+ecf1ed1443c77caa49f1864b16b955ef4b8d5b43 63a2f5b31fc15a27874785c6e59a9ac1704db086 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821184 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+63a2f5b31fc15a27874785c6e59a9ac1704db086 3453ccbafa8387ecd7b8df9edbe771169c92ef48 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821185 +0200	commit: Eclipse Automatic Commit
+3453ccbafa8387ecd7b8df9edbe771169c92ef48 f55a364d8ed9ce3463ff5ab4ad32d6c087774639 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821198 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f55a364d8ed9ce3463ff5ab4ad32d6c087774639 1775afa4e86a82a3d2a47a9812cd593fe3b11f5b piotrmajcher94 <piotr.majcher94@gmail.com> 1464821207 +0200	commit: Eclipse Automatic Commit
+1775afa4e86a82a3d2a47a9812cd593fe3b11f5b 103ae267afbf3d100e48fa5105e934f9b5869af4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821269 +0200	commit: Eclipse Automatic Commit
+103ae267afbf3d100e48fa5105e934f9b5869af4 1641f300137ee60411d60b290444633f691c4887 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821277 +0200	commit: Eclipse Automatic Commit
+1641f300137ee60411d60b290444633f691c4887 e250b6f468fc9cb02d04cbb41b6aaf9802c5a080 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821333 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e250b6f468fc9cb02d04cbb41b6aaf9802c5a080 71dec211905875799bbe6ccc86ca75e7564478bc piotrmajcher94 <piotr.majcher94@gmail.com> 1464821333 +0200	commit: Eclipse Automatic Commit
+71dec211905875799bbe6ccc86ca75e7564478bc bc0ae22d349f8764e54d8696a842fca4ccba8718 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821342 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+bc0ae22d349f8764e54d8696a842fca4ccba8718 7984a4a9602144fef780c6fe986ece786f60a396 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821361 +0200	commit: Eclipse Automatic Commit
+7984a4a9602144fef780c6fe986ece786f60a396 e918f6805e28061ab1ef77777b0047a9a56580eb piotrmajcher94 <piotr.majcher94@gmail.com> 1464821370 +0200	commit: Eclipse Automatic Commit
+e918f6805e28061ab1ef77777b0047a9a56580eb 08da9705b785bb0d0b6f82688afe29ac490a5beb piotrmajcher94 <piotr.majcher94@gmail.com> 1464821377 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+08da9705b785bb0d0b6f82688afe29ac490a5beb d96669c881c198defb8f60af0d73ae63f008a4fe piotrmajcher94 <piotr.majcher94@gmail.com> 1464821379 +0200	commit: Eclipse Automatic Commit
+d96669c881c198defb8f60af0d73ae63f008a4fe b723dd55855f9d690f54fe39c6c883daf0c762e0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821426 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b723dd55855f9d690f54fe39c6c883daf0c762e0 bdd20962c1425ea8bac402f9f95254b75053fa4b piotrmajcher94 <piotr.majcher94@gmail.com> 1464821427 +0200	commit: Eclipse Automatic Commit
+bdd20962c1425ea8bac402f9f95254b75053fa4b fe78ca0e0dfb2d294a0e9ead337038d70bbb9bd5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821432 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+fe78ca0e0dfb2d294a0e9ead337038d70bbb9bd5 d754dec7cff754a08ab180dc15a53ec1cebb1146 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821451 +0200	commit: Eclipse Automatic Commit
+d754dec7cff754a08ab180dc15a53ec1cebb1146 3ba7cfe8ccd14fee29f5156efe9016bbdc9a1bba piotrmajcher94 <piotr.majcher94@gmail.com> 1464821456 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+3ba7cfe8ccd14fee29f5156efe9016bbdc9a1bba 764617c37b807c91e7b188aa9ef7ddabba025020 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821456 +0200	commit: Eclipse Automatic Commit
+764617c37b807c91e7b188aa9ef7ddabba025020 35c4fce6c1d197fbd6ef03147bcda94e3813ea0d piotrmajcher94 <piotr.majcher94@gmail.com> 1464821461 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+35c4fce6c1d197fbd6ef03147bcda94e3813ea0d d2b8f361239a621b45e778a1966d2a41b6a7ab13 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821468 +0200	commit: Eclipse Automatic Commit
+d2b8f361239a621b45e778a1966d2a41b6a7ab13 00f82edf387fb8f3b32d2deb4b2e2c8d844c9be6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821473 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+00f82edf387fb8f3b32d2deb4b2e2c8d844c9be6 fadaa80afbc03ea5063dec4271345fed86fba6c9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464821474 +0200	commit: Eclipse Automatic Commit
+fadaa80afbc03ea5063dec4271345fed86fba6c9 bf10815ce6fd78b890fa812ea0eb557fdc1b7677 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823248 +0200	commit: Eclipse Automatic Commit
+bf10815ce6fd78b890fa812ea0eb557fdc1b7677 aee6136e16799d623c951623c3f28e24d5b67286 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823249 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+aee6136e16799d623c951623c3f28e24d5b67286 2e01ff9e5a943fb373b47986fade2cd3114d4a75 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823250 +0200	commit: Eclipse Automatic Commit
+2e01ff9e5a943fb373b47986fade2cd3114d4a75 4e84e630915c07c6ca6a5c504940fd128e8eef6d piotrmajcher94 <piotr.majcher94@gmail.com> 1464823255 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+4e84e630915c07c6ca6a5c504940fd128e8eef6d 2fd3ae9cc60cdb61ee7848028cb59c24ea4819db piotrmajcher94 <piotr.majcher94@gmail.com> 1464823278 +0200	commit: Eclipse Automatic Commit
+2fd3ae9cc60cdb61ee7848028cb59c24ea4819db 5b714618f5b0820c911dc2dc11580c67169a7b87 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823324 +0200	commit: Eclipse Automatic Commit
+5b714618f5b0820c911dc2dc11580c67169a7b87 be1aaed1ed3027b78261e5e48dfa1b51e5e2f5a0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823385 +0200	commit: Eclipse Automatic Commit
+be1aaed1ed3027b78261e5e48dfa1b51e5e2f5a0 c27d55e5579c0b5da0a742c3c6aed74a48ef7ea0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823387 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+c27d55e5579c0b5da0a742c3c6aed74a48ef7ea0 f86b8f43d5624b7bf2921f98d88206b9f428f8cc piotrmajcher94 <piotr.majcher94@gmail.com> 1464823388 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f86b8f43d5624b7bf2921f98d88206b9f428f8cc 2a99fbc0df87ad15ab0ba1a2d9644c4407db13d4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823389 +0200	commit: Eclipse Automatic Commit
+2a99fbc0df87ad15ab0ba1a2d9644c4407db13d4 d2a8cf213dfc3c81780acebb513002f7a91fc8cf piotrmajcher94 <piotr.majcher94@gmail.com> 1464823394 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d2a8cf213dfc3c81780acebb513002f7a91fc8cf 5414319fce7c6d909d74bc611c78ba04cd40e173 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823425 +0200	commit: Eclipse Automatic Commit
+5414319fce7c6d909d74bc611c78ba04cd40e173 a9eb3fb5c3353707ae06d1aede0ae01d835c9cd7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823435 +0200	commit: Eclipse Automatic Commit
+a9eb3fb5c3353707ae06d1aede0ae01d835c9cd7 7ffc0636d9f4c73359f101e5616276cabfdd22ed piotrmajcher94 <piotr.majcher94@gmail.com> 1464823439 +0200	commit: Eclipse Automatic Commit
+7ffc0636d9f4c73359f101e5616276cabfdd22ed d9c579eb6d22571c1026acd62c79836b56e2129d piotrmajcher94 <piotr.majcher94@gmail.com> 1464823619 +0200	commit: Eclipse Automatic Commit
+d9c579eb6d22571c1026acd62c79836b56e2129d b2818fe468ba7f2b76d882c792ba7f2d8dc8ea01 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823620 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b2818fe468ba7f2b76d882c792ba7f2d8dc8ea01 6603fd36428f9d44f852beb5b59af0cbb7493998 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823620 +0200	commit: Eclipse Automatic Commit
+6603fd36428f9d44f852beb5b59af0cbb7493998 4501951575282c6bfe7ef49941d9105aa774e1e1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823625 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+4501951575282c6bfe7ef49941d9105aa774e1e1 c4e4ff8ca4edc20748f2025e385fff8a06ad0551 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823636 +0200	commit: Eclipse Automatic Commit
+c4e4ff8ca4edc20748f2025e385fff8a06ad0551 87dd6659f69e76f2813e9097692c6b98ba00b77c piotrmajcher94 <piotr.majcher94@gmail.com> 1464823644 +0200	commit: Eclipse Automatic Commit
+87dd6659f69e76f2813e9097692c6b98ba00b77c 5c7642006769a416be358e70f2fba8fb239edd68 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823649 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+5c7642006769a416be358e70f2fba8fb239edd68 c7f8bb9340fb63aca533d109b662c3cfaf780239 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823650 +0200	commit: Eclipse Automatic Commit
+c7f8bb9340fb63aca533d109b662c3cfaf780239 6da6fca24b966bd09af518a6b63e0aa4589e7b2a piotrmajcher94 <piotr.majcher94@gmail.com> 1464823823 +0200	commit: Eclipse Automatic Commit
+6da6fca24b966bd09af518a6b63e0aa4589e7b2a 680d9c8a2562d460a42dfd82a640c8a3cc135fd5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823824 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+680d9c8a2562d460a42dfd82a640c8a3cc135fd5 c5f308039f53703a739c0a044958939b564d104a piotrmajcher94 <piotr.majcher94@gmail.com> 1464823824 +0200	commit: Eclipse Automatic Commit
+c5f308039f53703a739c0a044958939b564d104a f6f8d397690cdfd59d872c0e62cf06ebf6212214 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823829 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f6f8d397690cdfd59d872c0e62cf06ebf6212214 8f2cda5508015f16344df0706916c5f809a0c671 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823836 +0200	commit: Eclipse Automatic Commit
+8f2cda5508015f16344df0706916c5f809a0c671 a21a00883cc1d2b3d1af80d93a5844a398b7faf3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823844 +0200	commit: Eclipse Automatic Commit
+a21a00883cc1d2b3d1af80d93a5844a398b7faf3 e2a0d133c66c8c7b23ca276cba18cb8df4bd1654 piotrmajcher94 <piotr.majcher94@gmail.com> 1464823849 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e2a0d133c66c8c7b23ca276cba18cb8df4bd1654 9a9bec16c07e620983757b973c2394a073a8380c piotrmajcher94 <piotr.majcher94@gmail.com> 1464823850 +0200	commit: Eclipse Automatic Commit
+9a9bec16c07e620983757b973c2394a073a8380c 25496df4e5485b0d3ca6ad012c404bd0b2374724 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824042 +0200	commit: Eclipse Automatic Commit
+25496df4e5485b0d3ca6ad012c404bd0b2374724 e974df569e833e3c5bb0f085361dda458a94a534 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824043 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e974df569e833e3c5bb0f085361dda458a94a534 2ef564106ee8260f7325a3306dbbc2dcaa381247 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824043 +0200	commit: Eclipse Automatic Commit
+2ef564106ee8260f7325a3306dbbc2dcaa381247 abe7850b0e5c594a1da39be5b1bb0c4d4c205661 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824048 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+abe7850b0e5c594a1da39be5b1bb0c4d4c205661 830845b472a2e64b3ffb78e67b14463a61d27c35 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824138 +0200	commit: Eclipse Automatic Commit
+830845b472a2e64b3ffb78e67b14463a61d27c35 7a02b2ad1c7fb3c87b831ce8d0f48b3d6fa1abc2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824168 +0200	commit: Eclipse Automatic Commit
+7a02b2ad1c7fb3c87b831ce8d0f48b3d6fa1abc2 948831cbfab6dbf19e1e8c419347935d3c9e535e piotrmajcher94 <piotr.majcher94@gmail.com> 1464824173 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+948831cbfab6dbf19e1e8c419347935d3c9e535e e1bbea7c7e8cc0eb2ce4ffeb8d2a45c9bccdb803 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824174 +0200	commit: Eclipse Automatic Commit
+e1bbea7c7e8cc0eb2ce4ffeb8d2a45c9bccdb803 9782d2d0ba4ea40743f2c8c68cb09f4082929f96 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824257 +0200	commit: Eclipse Automatic Commit
+9782d2d0ba4ea40743f2c8c68cb09f4082929f96 b01d5d07b5cc3357d8846e04e6c79b0e080d5816 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824258 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b01d5d07b5cc3357d8846e04e6c79b0e080d5816 089028dd1d1ec77563efd2c37cc52c37f42efc31 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824258 +0200	commit: Eclipse Automatic Commit
+089028dd1d1ec77563efd2c37cc52c37f42efc31 cdae0be2725cd5b32baa9ce9272c5000f66aeca8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824263 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+cdae0be2725cd5b32baa9ce9272c5000f66aeca8 adda000fab31ae928a405e0f15994f778cf7235d piotrmajcher94 <piotr.majcher94@gmail.com> 1464824271 +0200	commit: Eclipse Automatic Commit
+adda000fab31ae928a405e0f15994f778cf7235d 8a1e2bed6a6da272871570b6345251bccbda9ead piotrmajcher94 <piotr.majcher94@gmail.com> 1464824278 +0200	commit: Eclipse Automatic Commit
+8a1e2bed6a6da272871570b6345251bccbda9ead 410de41e34c23f2fcd653bc7041dea73054acd2c piotrmajcher94 <piotr.majcher94@gmail.com> 1464824283 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+410de41e34c23f2fcd653bc7041dea73054acd2c e0eb268893e29de43b1486a4298ba35f11ac6657 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824284 +0200	commit: Eclipse Automatic Commit
+e0eb268893e29de43b1486a4298ba35f11ac6657 75ddb5bdab8a9012e9eaac636b24e13f0bca081a piotrmajcher94 <piotr.majcher94@gmail.com> 1464824428 +0200	commit: Eclipse Automatic Commit
+75ddb5bdab8a9012e9eaac636b24e13f0bca081a 7d8f141dca5d43c403bc4a0049cb4d1191ec1bce piotrmajcher94 <piotr.majcher94@gmail.com> 1464824434 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7d8f141dca5d43c403bc4a0049cb4d1191ec1bce 8932805519f4ff77e5c3c1c1005837291c9a91f4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824434 +0200	commit: Eclipse Automatic Commit
+8932805519f4ff77e5c3c1c1005837291c9a91f4 aad469fd9e5a6ae5c54957f87eccbb6a23d56b84 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824439 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+aad469fd9e5a6ae5c54957f87eccbb6a23d56b84 2b60e6baa6416bd1bb3232e7aa73312d3a27a6d3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824443 +0200	commit: Eclipse Automatic Commit
+2b60e6baa6416bd1bb3232e7aa73312d3a27a6d3 63f9becc9d8276df11c03a1a09c37295103d5211 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824460 +0200	commit: Eclipse Automatic Commit
+63f9becc9d8276df11c03a1a09c37295103d5211 a39dac51ba9b6f0e6b6a823ead299a2047ac4fbb piotrmajcher94 <piotr.majcher94@gmail.com> 1464824465 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a39dac51ba9b6f0e6b6a823ead299a2047ac4fbb 916f50ed07f52f88d172b94f60e5cf31a7687a91 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824466 +0200	commit: Eclipse Automatic Commit
+916f50ed07f52f88d172b94f60e5cf31a7687a91 0fc8fad46d3698bab8a1e0852e7c2cc190ed765a piotrmajcher94 <piotr.majcher94@gmail.com> 1464824604 +0200	commit: Eclipse Automatic Commit
+0fc8fad46d3698bab8a1e0852e7c2cc190ed765a 2301b6e781782beff5171656e58e11663b9b2759 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824605 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2301b6e781782beff5171656e58e11663b9b2759 985599cd4192d8b2c7bc41ea98c11cac021eb387 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824606 +0200	commit: Eclipse Automatic Commit
+985599cd4192d8b2c7bc41ea98c11cac021eb387 d9c95d50c286f33e14d14bc3d2efaf3bda3e1e99 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824611 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d9c95d50c286f33e14d14bc3d2efaf3bda3e1e99 608542415516a0a77ec5eb5d462d18f333ac102c piotrmajcher94 <piotr.majcher94@gmail.com> 1464824617 +0200	commit: Eclipse Automatic Commit
+608542415516a0a77ec5eb5d462d18f333ac102c f1c1448a9bfab5187a2580ac8d30e1297825e7c0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824632 +0200	commit: Eclipse Automatic Commit
+f1c1448a9bfab5187a2580ac8d30e1297825e7c0 0aeb3c2a0f061ae858d6c3fa7172bac93103a020 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824637 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+0aeb3c2a0f061ae858d6c3fa7172bac93103a020 7dd4bd1f9ddc3ebd28151fad75a7aa6bbfb9d449 piotrmajcher94 <piotr.majcher94@gmail.com> 1464824638 +0200	commit: Eclipse Automatic Commit
+7dd4bd1f9ddc3ebd28151fad75a7aa6bbfb9d449 d69df25f0b2a0d4baac60f171d490501e4a0a88a piotrmajcher94 <piotr.majcher94@gmail.com> 1464825035 +0200	commit: Eclipse Automatic Commit
+d69df25f0b2a0d4baac60f171d490501e4a0a88a 45291fe9e8e9d0f2f1884bb672a8d0e8bd5eeea4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825036 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+45291fe9e8e9d0f2f1884bb672a8d0e8bd5eeea4 188f49f54524f315862bca09f44f24d6c3672f9b piotrmajcher94 <piotr.majcher94@gmail.com> 1464825037 +0200	commit: Eclipse Automatic Commit
+188f49f54524f315862bca09f44f24d6c3672f9b b9a4cc6083a6fdf46c9dec06409c854c3b73e7b2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825042 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b9a4cc6083a6fdf46c9dec06409c854c3b73e7b2 25ebc61d232335fefe5054c40ff75e43087550b5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825047 +0200	commit: Eclipse Automatic Commit
+25ebc61d232335fefe5054c40ff75e43087550b5 ff3993ca3aa148f42c6babbb5c293825b972aa0f piotrmajcher94 <piotr.majcher94@gmail.com> 1464825061 +0200	commit: Eclipse Automatic Commit
+ff3993ca3aa148f42c6babbb5c293825b972aa0f 29e5abfb08a265884198e296f9be29fe9bc11d46 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825067 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+29e5abfb08a265884198e296f9be29fe9bc11d46 e56b8d0c759b4c7e75ef4b2d1b38e7bbfa949014 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825067 +0200	commit: Eclipse Automatic Commit
+e56b8d0c759b4c7e75ef4b2d1b38e7bbfa949014 4e3a419235ae0dd6a51a9ea7157e3a7a4f2264ef piotrmajcher94 <piotr.majcher94@gmail.com> 1464825222 +0200	commit: Eclipse Automatic Commit
+4e3a419235ae0dd6a51a9ea7157e3a7a4f2264ef 33993a91a5dd4034c95f9ea410f1127dbb4ca4ce piotrmajcher94 <piotr.majcher94@gmail.com> 1464825223 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+33993a91a5dd4034c95f9ea410f1127dbb4ca4ce b4ee52ab562c1e3a23b56765eeacbc1b4b160c26 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825224 +0200	commit: Eclipse Automatic Commit
+b4ee52ab562c1e3a23b56765eeacbc1b4b160c26 27baf6fc5580ae6e2067e911bb03829ab788c724 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825229 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+27baf6fc5580ae6e2067e911bb03829ab788c724 67fd05598bc7153de70c653cda1699275154624c piotrmajcher94 <piotr.majcher94@gmail.com> 1464825237 +0200	commit: Eclipse Automatic Commit
+67fd05598bc7153de70c653cda1699275154624c 78990108668887776f0a6a52fc4f37c6a3de6b26 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825244 +0200	commit: Eclipse Automatic Commit
+78990108668887776f0a6a52fc4f37c6a3de6b26 203e87f8c3e4a763937cf8f15f3f5f4569298dbc piotrmajcher94 <piotr.majcher94@gmail.com> 1464825249 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+203e87f8c3e4a763937cf8f15f3f5f4569298dbc 7890b0014398822b3c544e7bf7cc7563261640cf piotrmajcher94 <piotr.majcher94@gmail.com> 1464825250 +0200	commit: Eclipse Automatic Commit
+7890b0014398822b3c544e7bf7cc7563261640cf 5f143fc921fc383e28f4f1394b9ce7fe96eae72e piotrmajcher94 <piotr.majcher94@gmail.com> 1464825369 +0200	commit: Eclipse Automatic Commit
+5f143fc921fc383e28f4f1394b9ce7fe96eae72e a7543f4fd17fb0d67a9e8abe19fd2c1c77cc9efd piotrmajcher94 <piotr.majcher94@gmail.com> 1464825370 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a7543f4fd17fb0d67a9e8abe19fd2c1c77cc9efd 36b64265a28ab99f24b10011233752d2b3c5807a piotrmajcher94 <piotr.majcher94@gmail.com> 1464825370 +0200	commit: Eclipse Automatic Commit
+36b64265a28ab99f24b10011233752d2b3c5807a 8a3d0aa2662548a4ca678c4756a2a7e090ed3c6c piotrmajcher94 <piotr.majcher94@gmail.com> 1464825375 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+8a3d0aa2662548a4ca678c4756a2a7e090ed3c6c 2dc7633a72f4e52d31a5ea28578a96b3e92903b0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825380 +0200	commit: Eclipse Automatic Commit
+2dc7633a72f4e52d31a5ea28578a96b3e92903b0 e96b9217d3196c5e0979ffc2d653096c014c8386 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825419 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e96b9217d3196c5e0979ffc2d653096c014c8386 697a6bdf59640b7c866a84b3ef3179fd9ffd8aec piotrmajcher94 <piotr.majcher94@gmail.com> 1464825419 +0200	commit: Eclipse Automatic Commit
+697a6bdf59640b7c866a84b3ef3179fd9ffd8aec 1dacd8dd2e003cd665ecfba1cc83bb3927e94e2b piotrmajcher94 <piotr.majcher94@gmail.com> 1464825424 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+1dacd8dd2e003cd665ecfba1cc83bb3927e94e2b c3ce1d9a9b83cd8db44998072532bf8fa4602a50 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825427 +0200	commit: Eclipse Automatic Commit
+c3ce1d9a9b83cd8db44998072532bf8fa4602a50 5eea6874512862f8b314543081d7083f42687f39 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825431 +0200	commit: Eclipse Automatic Commit
+5eea6874512862f8b314543081d7083f42687f39 a11f0507f476210b04b22df927ae39d1e0efc021 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825437 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a11f0507f476210b04b22df927ae39d1e0efc021 68ab4f9b78cf0e68e0068a2513eda5c04a0efb1f piotrmajcher94 <piotr.majcher94@gmail.com> 1464825437 +0200	commit: Eclipse Automatic Commit
+68ab4f9b78cf0e68e0068a2513eda5c04a0efb1f 6f86aa8a3b9405b450109b5b48a2012068733f03 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825613 +0200	commit: Eclipse Automatic Commit
+6f86aa8a3b9405b450109b5b48a2012068733f03 7a8a603d2ffebd0c8e8038c20c1eee50f790cfe8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825614 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7a8a603d2ffebd0c8e8038c20c1eee50f790cfe8 ae07ad1b9de211cf06158300466ba42865b59575 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825614 +0200	commit: Eclipse Automatic Commit
+ae07ad1b9de211cf06158300466ba42865b59575 8fdf3b42386af17467649d18ce598699ebe41893 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825620 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+8fdf3b42386af17467649d18ce598699ebe41893 44bde4f4d2547fe8b303f623da979e810f61a589 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825623 +0200	commit: Eclipse Automatic Commit
+44bde4f4d2547fe8b303f623da979e810f61a589 a2e78d1ad2f5348285ffee4be88c8bd4046ad6c3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825632 +0200	commit: Eclipse Automatic Commit
+a2e78d1ad2f5348285ffee4be88c8bd4046ad6c3 7d665d27d36b58b7e6e50c1e0eecefb1dc98b686 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825637 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7d665d27d36b58b7e6e50c1e0eecefb1dc98b686 3c5ceb8ecd67a24eb5ee62d2951ffe2f1e5e5e80 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825637 +0200	commit: Eclipse Automatic Commit
+3c5ceb8ecd67a24eb5ee62d2951ffe2f1e5e5e80 67bcb560f8e2df039e57dccc98898c4c3165ab55 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825945 +0200	commit: Eclipse Automatic Commit
+67bcb560f8e2df039e57dccc98898c4c3165ab55 32fc2df648b244c8051bdbbb4c7de5e07f7a1b2b piotrmajcher94 <piotr.majcher94@gmail.com> 1464825947 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+32fc2df648b244c8051bdbbb4c7de5e07f7a1b2b 60b900099d1907d3c889f8041c1b0a2cec6c093b piotrmajcher94 <piotr.majcher94@gmail.com> 1464825948 +0200	commit: Eclipse Automatic Commit
+60b900099d1907d3c889f8041c1b0a2cec6c093b f66fb262de9686a35acf1c7980ec9eca33ee5edb piotrmajcher94 <piotr.majcher94@gmail.com> 1464825961 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f66fb262de9686a35acf1c7980ec9eca33ee5edb c98b3a737b03ee8cb228c96ee73effd406ebc66a piotrmajcher94 <piotr.majcher94@gmail.com> 1464825976 +0200	commit: Eclipse Automatic Commit
+c98b3a737b03ee8cb228c96ee73effd406ebc66a 12cd9856db6394e3138fb0ca5148c3bfc1e8d181 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825981 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+12cd9856db6394e3138fb0ca5148c3bfc1e8d181 4470b117ae7becd61896b69e92ea19d4bd1b04b6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464825982 +0200	commit: Eclipse Automatic Commit
+4470b117ae7becd61896b69e92ea19d4bd1b04b6 678b857eeb85247d538a433bece5cbd399028bf9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826544 +0200	commit: Eclipse Automatic Commit
+678b857eeb85247d538a433bece5cbd399028bf9 c9f7dca14bc6767fdf7030ca8e6eb9ace66ef4b6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826732 +0200	commit: Eclipse Automatic Commit
+c9f7dca14bc6767fdf7030ca8e6eb9ace66ef4b6 39928721aee73d42fddfa97a064a08fc4c716c74 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826733 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+39928721aee73d42fddfa97a064a08fc4c716c74 db6cc37c4d879e0f8f59d98b12aef7ea36ce5d98 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826734 +0200	commit: Eclipse Automatic Commit
+db6cc37c4d879e0f8f59d98b12aef7ea36ce5d98 523ea056ed60ffda8f839b25f8720d68d220f551 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826739 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+523ea056ed60ffda8f839b25f8720d68d220f551 138a046ed1856729bfae12825259cf4a65ce40da piotrmajcher94 <piotr.majcher94@gmail.com> 1464826744 +0200	commit: Eclipse Automatic Commit
+138a046ed1856729bfae12825259cf4a65ce40da 9842ab0eed399925dad89b7bcf060adbe917a8a4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826824 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+9842ab0eed399925dad89b7bcf060adbe917a8a4 adf5db00a232189104029e48743003f2c8e2a7dd piotrmajcher94 <piotr.majcher94@gmail.com> 1464826824 +0200	commit: Eclipse Automatic Commit
+adf5db00a232189104029e48743003f2c8e2a7dd 10f813b01a5b1c8b586dffdf8e540df929926a4b piotrmajcher94 <piotr.majcher94@gmail.com> 1464826830 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+10f813b01a5b1c8b586dffdf8e540df929926a4b b7fa87c80667f52f9cf42aa2fb5ec750c4f19f45 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826836 +0200	commit: Eclipse Automatic Commit
+b7fa87c80667f52f9cf42aa2fb5ec750c4f19f45 cbeef626670fa099c93c8d10d60191ce5288e24f piotrmajcher94 <piotr.majcher94@gmail.com> 1464826862 +0200	commit: Eclipse Automatic Commit
+cbeef626670fa099c93c8d10d60191ce5288e24f 7be69dc742522eb7dcffcdd2d26b07fb982f45b0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826868 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7be69dc742522eb7dcffcdd2d26b07fb982f45b0 e2cbe04cce40c211a2106e9d367e371dc2542c27 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826909 +0200	commit: Eclipse Automatic Commit
+e2cbe04cce40c211a2106e9d367e371dc2542c27 257e7102ac47858006ac5bcf0437da158ac69b3d piotrmajcher94 <piotr.majcher94@gmail.com> 1464826992 +0200	commit: Eclipse Automatic Commit
+257e7102ac47858006ac5bcf0437da158ac69b3d 11db81adf7597f54030a66e89ca038e9e9d71ac1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826993 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+11db81adf7597f54030a66e89ca038e9e9d71ac1 5fb4434a7898a5e3cf23b37f15025ec25e3db192 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826993 +0200	commit: Eclipse Automatic Commit
+5fb4434a7898a5e3cf23b37f15025ec25e3db192 3f17e231a1f2e2a8b8d0a754ccfff30ca19b3304 piotrmajcher94 <piotr.majcher94@gmail.com> 1464826998 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+3f17e231a1f2e2a8b8d0a754ccfff30ca19b3304 58d75811876a5d04ab31c175aa0c1f87062dca96 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827037 +0200	commit: Eclipse Automatic Commit
+58d75811876a5d04ab31c175aa0c1f87062dca96 9dbed7a8d7325770a0128b2c3e78e0aeee6eb8bd piotrmajcher94 <piotr.majcher94@gmail.com> 1464827066 +0200	commit: Eclipse Automatic Commit
+9dbed7a8d7325770a0128b2c3e78e0aeee6eb8bd f5a8ea93da92c880fe42b832e8a3a9d3246731a1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827071 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f5a8ea93da92c880fe42b832e8a3a9d3246731a1 eba8b44ec9b94f54dcf6629761950d27f1273a26 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827100 +0200	commit: Eclipse Automatic Commit
+eba8b44ec9b94f54dcf6629761950d27f1273a26 fb12b585a78ee12dc55051595738c490b4998d97 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827418 +0200	commit: Eclipse Automatic Commit
+fb12b585a78ee12dc55051595738c490b4998d97 bd587835582c926000d3ec3f79f90d23e266a59a piotrmajcher94 <piotr.majcher94@gmail.com> 1464827423 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+bd587835582c926000d3ec3f79f90d23e266a59a d86a7c5064b1bbe87b6dffb5e171d6fcfca46a88 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827424 +0200	commit: Eclipse Automatic Commit
+d86a7c5064b1bbe87b6dffb5e171d6fcfca46a88 6c4d8622b667cb167a9daa898ba4f883c56c795e piotrmajcher94 <piotr.majcher94@gmail.com> 1464827429 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+6c4d8622b667cb167a9daa898ba4f883c56c795e da4266e1ef121c971d5675cf0e6f846213fac251 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827434 +0200	commit: Eclipse Automatic Commit
+da4266e1ef121c971d5675cf0e6f846213fac251 e86f0ee2dc00106073134d5a682de8a2352a941f piotrmajcher94 <piotr.majcher94@gmail.com> 1464827475 +0200	commit: Eclipse Automatic Commit
+e86f0ee2dc00106073134d5a682de8a2352a941f bffaa471632be13e5cf21e2c6be9cf236afca1c4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827480 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+bffaa471632be13e5cf21e2c6be9cf236afca1c4 bc9eb2d4855e43178a769b8dba2bc91d1e2085ec piotrmajcher94 <piotr.majcher94@gmail.com> 1464827539 +0200	commit: Eclipse Automatic Commit
+bc9eb2d4855e43178a769b8dba2bc91d1e2085ec c290b90ee617eea872464eb04498fe3683d33ba2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827543 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+c290b90ee617eea872464eb04498fe3683d33ba2 b1c0f3774301a4799c335bcf59c7bc44d53d0842 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827544 +0200	commit: Eclipse Automatic Commit
+b1c0f3774301a4799c335bcf59c7bc44d53d0842 c4610c9a5117ee9071d1af5d515740375086c20e piotrmajcher94 <piotr.majcher94@gmail.com> 1464827549 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+c4610c9a5117ee9071d1af5d515740375086c20e 26f535121e13901b27ad16673a81245f7e1dd419 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827552 +0200	commit: Eclipse Automatic Commit
+26f535121e13901b27ad16673a81245f7e1dd419 902564dd71260dfaa6253faedcd769b8d9f5e48d piotrmajcher94 <piotr.majcher94@gmail.com> 1464827573 +0200	commit: Eclipse Automatic Commit
+902564dd71260dfaa6253faedcd769b8d9f5e48d b7e52989db471deccc3880e713eddb72c5e1e7aa piotrmajcher94 <piotr.majcher94@gmail.com> 1464827579 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b7e52989db471deccc3880e713eddb72c5e1e7aa 3b88c50950d12a59766aa130e3f936aec9276312 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827586 +0200	commit: Eclipse Automatic Commit
+3b88c50950d12a59766aa130e3f936aec9276312 0006762c91ac605c4588a775a07e738fae1378ff piotrmajcher94 <piotr.majcher94@gmail.com> 1464827769 +0200	commit: Eclipse Automatic Commit
+0006762c91ac605c4588a775a07e738fae1378ff 519db10417b5c725da123ae5fdd8f27ec67c96f8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827769 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+519db10417b5c725da123ae5fdd8f27ec67c96f8 276011080cee9e7a79d4a6a699da122a06496a0f piotrmajcher94 <piotr.majcher94@gmail.com> 1464827770 +0200	commit: Eclipse Automatic Commit
+276011080cee9e7a79d4a6a699da122a06496a0f 41e2d0b662508be4a6e03f4143437029fc9c0ffc piotrmajcher94 <piotr.majcher94@gmail.com> 1464827775 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+41e2d0b662508be4a6e03f4143437029fc9c0ffc afea0af4cf41ea01333478f830b19b77a663939c piotrmajcher94 <piotr.majcher94@gmail.com> 1464827778 +0200	commit: Eclipse Automatic Commit
+afea0af4cf41ea01333478f830b19b77a663939c 3280c2532ced3edd1a79033ebf8f5ce4e0c2088d piotrmajcher94 <piotr.majcher94@gmail.com> 1464827792 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+3280c2532ced3edd1a79033ebf8f5ce4e0c2088d 731373757edea8deefb8f64deae7f6690093b5ba piotrmajcher94 <piotr.majcher94@gmail.com> 1464827792 +0200	commit: Eclipse Automatic Commit
+731373757edea8deefb8f64deae7f6690093b5ba a854d67b1fd2e25acc0e55d7b0622ebf9d89fa16 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827797 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+a854d67b1fd2e25acc0e55d7b0622ebf9d89fa16 0c3187996248a9c11d66235c0afff32134319aee piotrmajcher94 <piotr.majcher94@gmail.com> 1464827810 +0200	commit: Eclipse Automatic Commit
+0c3187996248a9c11d66235c0afff32134319aee 93e1160164dabbb141e574dd57c61937441b1439 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827815 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+93e1160164dabbb141e574dd57c61937441b1439 3a74b33f6558d7243d48d2e2c34f6d6dcbe1d523 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827824 +0200	commit: Eclipse Automatic Commit
+3a74b33f6558d7243d48d2e2c34f6d6dcbe1d523 179e258f4871ab13361103a54e828ee4613bf49a piotrmajcher94 <piotr.majcher94@gmail.com> 1464827898 +0200	commit: Eclipse Automatic Commit
+179e258f4871ab13361103a54e828ee4613bf49a 85eed40a058f4f9bc83d6dafb223889b8ba6e208 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827899 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+85eed40a058f4f9bc83d6dafb223889b8ba6e208 0535889b6b0ee7ccfa93afa1c47e316daaafc46f piotrmajcher94 <piotr.majcher94@gmail.com> 1464827899 +0200	commit: Eclipse Automatic Commit
+0535889b6b0ee7ccfa93afa1c47e316daaafc46f b0d3fd8afd229c10bf61d8d245c8b24b603f063e piotrmajcher94 <piotr.majcher94@gmail.com> 1464827904 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b0d3fd8afd229c10bf61d8d245c8b24b603f063e 0c6d03abffdf07f8a7a867c592b7ababa93c6714 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827907 +0200	commit: Eclipse Automatic Commit
+0c6d03abffdf07f8a7a867c592b7ababa93c6714 c33efe89d6fae09ec534af1230c3819e339809b5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464827922 +0200	commit: Eclipse Automatic Commit
+c33efe89d6fae09ec534af1230c3819e339809b5 fdf6f4011eacb32069c82c1ea7c8d531553fe17f piotrmajcher94 <piotr.majcher94@gmail.com> 1464827927 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+fdf6f4011eacb32069c82c1ea7c8d531553fe17f 219c5bd720ddfaea4edee5ac3601824d6c249dbe piotrmajcher94 <piotr.majcher94@gmail.com> 1464827936 +0200	commit: Eclipse Automatic Commit
+219c5bd720ddfaea4edee5ac3601824d6c249dbe d824bfebf0b226f63e1001a1e11a0c350bb64098 piotrmajcher94 <piotr.majcher94@gmail.com> 1464828030 +0200	commit: Eclipse Automatic Commit
+d824bfebf0b226f63e1001a1e11a0c350bb64098 b39aa5a572b885e6d42c14fbb311b5d68d60bf49 piotrmajcher94 <piotr.majcher94@gmail.com> 1464828031 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b39aa5a572b885e6d42c14fbb311b5d68d60bf49 db620e490fa0040333578f2009d12b56c0b911ba piotrmajcher94 <piotr.majcher94@gmail.com> 1464828031 +0200	commit: Eclipse Automatic Commit
+db620e490fa0040333578f2009d12b56c0b911ba 62fa112eca753cdf6d3cc6bf92d84d790763b4f7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464828036 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+62fa112eca753cdf6d3cc6bf92d84d790763b4f7 61a5d6f5567847ebf602f4e272baa43a8d60d91c piotrmajcher94 <piotr.majcher94@gmail.com> 1464828040 +0200	commit: Eclipse Automatic Commit
+61a5d6f5567847ebf602f4e272baa43a8d60d91c 7439e22c3b6e14f6e8a2f0f75f5d12bc988eeb7f piotrmajcher94 <piotr.majcher94@gmail.com> 1464828051 +0200	commit: Eclipse Automatic Commit
+7439e22c3b6e14f6e8a2f0f75f5d12bc988eeb7f 402f236184242d9978f1b0dc7e5c7ca6e639c846 piotrmajcher94 <piotr.majcher94@gmail.com> 1464828056 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+402f236184242d9978f1b0dc7e5c7ca6e639c846 593d312ebc92efedb1b870a69c293151a1d0726d piotrmajcher94 <piotr.majcher94@gmail.com> 1464828063 +0200	commit: Eclipse Automatic Commit
+593d312ebc92efedb1b870a69c293151a1d0726d 88746dd9a5c7d34284fdcf2c530eb25032576bfd piotrmajcher94 <piotr.majcher94@gmail.com> 1464828225 +0200	commit: Eclipse Automatic Commit
+88746dd9a5c7d34284fdcf2c530eb25032576bfd 428e00b49701021f7d502adc829bc2cf85ed7862 piotrmajcher94 <piotr.majcher94@gmail.com> 1464860901 +0200	commit: Eclipse Automatic Commit
+428e00b49701021f7d502adc829bc2cf85ed7862 d599877fbad4be240dc111f271ab3553190cfe26 piotrmajcher94 <piotr.majcher94@gmail.com> 1464860908 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+d599877fbad4be240dc111f271ab3553190cfe26 3999a881b36de2585d448135384893e188f00f12 piotrmajcher94 <piotr.majcher94@gmail.com> 1464860910 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+3999a881b36de2585d448135384893e188f00f12 ac047f74e2c743d37a2ccdf5b36d08e38cccb180 piotrmajcher94 <piotr.majcher94@gmail.com> 1464860911 +0200	commit: Eclipse Automatic Commit
+ac047f74e2c743d37a2ccdf5b36d08e38cccb180 7f7fe690105874298e3a905717066af5766a0a81 piotrmajcher94 <piotr.majcher94@gmail.com> 1464860915 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+7f7fe690105874298e3a905717066af5766a0a81 5229b4920259f203767e5e8171a9175e2f147a59 piotrmajcher94 <piotr.majcher94@gmail.com> 1464861032 +0200	commit: Eclipse Automatic Commit
+5229b4920259f203767e5e8171a9175e2f147a59 255269fd6f1b8f6e67ef235df2145d9c9f865605 piotrmajcher94 <piotr.majcher94@gmail.com> 1464861035 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+255269fd6f1b8f6e67ef235df2145d9c9f865605 f77be4d8d723383ed2ff0ad0f5cb983b9acd3ca8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464861036 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+f77be4d8d723383ed2ff0ad0f5cb983b9acd3ca8 39311b9e0a4f99b3e89ba95348ae450cfdaa93ff piotrmajcher94 <piotr.majcher94@gmail.com> 1464861039 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+39311b9e0a4f99b3e89ba95348ae450cfdaa93ff f2eb6a36c2f74d27189a67f539de1388dc7ed2f4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464861062 +0200	commit: Eclipse Automatic Commit
+f2eb6a36c2f74d27189a67f539de1388dc7ed2f4 204ed3c12301d00905d5299e8d218f715b1ffb53 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862366 +0200	commit: Eclipse Automatic Commit
+204ed3c12301d00905d5299e8d218f715b1ffb53 ae76a95249c36bec5f95c3ea61dea0e9e52aec5d piotrmajcher94 <piotr.majcher94@gmail.com> 1464862367 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+ae76a95249c36bec5f95c3ea61dea0e9e52aec5d 2ade0e6c49a5bea0cb0938c288855984eb5a3457 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862368 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+2ade0e6c49a5bea0cb0938c288855984eb5a3457 a77f4bd2f9fe550161670ca938f1e3630b586150 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862370 +0200	commit: Eclipse Automatic Commit
+a77f4bd2f9fe550161670ca938f1e3630b586150 d5dc00d049d9c76226fc473356c7fe9b85673646 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862375 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d5dc00d049d9c76226fc473356c7fe9b85673646 00d13c3753a65d75ba34d4a18d960569ad8b89a4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862395 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+00d13c3753a65d75ba34d4a18d960569ad8b89a4 60ac1ead76efdf4a0110d771e1d5e227c612a53f piotrmajcher94 <piotr.majcher94@gmail.com> 1464862400 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+60ac1ead76efdf4a0110d771e1d5e227c612a53f 29e02f685248836e8c8b1514bd31187172805df7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862403 +0200	commit: Eclipse Automatic Commit
+29e02f685248836e8c8b1514bd31187172805df7 128d2d00eae831f6df8c74bb7a4cfb0306ab848d piotrmajcher94 <piotr.majcher94@gmail.com> 1464862411 +0200	commit: Eclipse Automatic Commit
+128d2d00eae831f6df8c74bb7a4cfb0306ab848d fe616768164dddd90c794cfd549023f8c8e5abc4 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862416 +0200	commit: Eclipse Automatic Commit
+fe616768164dddd90c794cfd549023f8c8e5abc4 d9a72997aca6d68a2d64b43a144a9774bf6e8079 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862487 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+d9a72997aca6d68a2d64b43a144a9774bf6e8079 7b482149081194251ffd13facb2fe8e5927d32d3 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862488 +0200	commit: Eclipse Automatic Commit
+7b482149081194251ffd13facb2fe8e5927d32d3 79ca3a0f93f12a05f60ff05febe68289f87901e0 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862493 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+79ca3a0f93f12a05f60ff05febe68289f87901e0 d06cf43235b196495db6a5ec9eaac36ee32b5d0a piotrmajcher94 <piotr.majcher94@gmail.com> 1464862497 +0200	commit: Eclipse Automatic Commit
+d06cf43235b196495db6a5ec9eaac36ee32b5d0a c9973afdf362864f77767bfcefb12299a1aaeb42 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862502 +0200	commit: Eclipse Automatic Commit
+c9973afdf362864f77767bfcefb12299a1aaeb42 b68b102a85c7d9530ccf413ceda7bd08c329de8f piotrmajcher94 <piotr.majcher94@gmail.com> 1464862507 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+b68b102a85c7d9530ccf413ceda7bd08c329de8f 02e35ec29b0f08e63c23a33f2cb878d56005f112 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862508 +0200	commit: Eclipse Automatic Commit
+02e35ec29b0f08e63c23a33f2cb878d56005f112 7d3774d9786c650dadec771be1020531d0f0f226 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862534 +0200	commit: Eclipse Automatic Commit
+7d3774d9786c650dadec771be1020531d0f0f226 efdaf84d52bdcdb210d047d0eb6131bfcf631216 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862745 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+efdaf84d52bdcdb210d047d0eb6131bfcf631216 ba9d30d95ef8b4d79b75fba3677eaff8b2377e44 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862746 +0200	commit: Eclipse Automatic Commit
+ba9d30d95ef8b4d79b75fba3677eaff8b2377e44 e9adde8ed8d37bd90c5bdb188de0cdf5f1e1561f piotrmajcher94 <piotr.majcher94@gmail.com> 1464862751 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e9adde8ed8d37bd90c5bdb188de0cdf5f1e1561f 95d34818d7ee0370e1be81b14d47eea00d7abfd5 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862795 +0200	commit: Eclipse Automatic Commit
+95d34818d7ee0370e1be81b14d47eea00d7abfd5 33d836203e832ce5262524b73461dbdc69cabbdc piotrmajcher94 <piotr.majcher94@gmail.com> 1464862797 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+33d836203e832ce5262524b73461dbdc69cabbdc c5f7769a33d512fcbcdfb79f3255bce9617753d2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862798 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+c5f7769a33d512fcbcdfb79f3255bce9617753d2 fa80dfdf8a41e1d20016a701a47ab085bc4a4bc2 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862805 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+fa80dfdf8a41e1d20016a701a47ab085bc4a4bc2 b138c414ce4b018edc4bd1e157da94c36cae84ab piotrmajcher94 <piotr.majcher94@gmail.com> 1464862810 +0200	commit: Eclipse Automatic Commit
+b138c414ce4b018edc4bd1e157da94c36cae84ab ce34fca5ed6c08dd859bc2a6bf7553a3da0f3d66 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862833 +0200	commit: Eclipse Automatic Commit
+ce34fca5ed6c08dd859bc2a6bf7553a3da0f3d66 3560b5fe2308cce202bc0565643abbd2a7e408c7 piotrmajcher94 <piotr.majcher94@gmail.com> 1464862838 +0200	commit: Eclipse Automatic Commit
+3560b5fe2308cce202bc0565643abbd2a7e408c7 e4cc23b1b099bfa0d2cbb18b20b18ae421d1dc3f piotrmajcher94 <piotr.majcher94@gmail.com> 1464863460 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+e4cc23b1b099bfa0d2cbb18b20b18ae421d1dc3f 977c2a4825487fbf47a37f51fd41f68e20ac562d piotrmajcher94 <piotr.majcher94@gmail.com> 1464863460 +0200	commit: Eclipse Automatic Commit
+977c2a4825487fbf47a37f51fd41f68e20ac562d 8d549a5643752bf4dd2ec3f38aa110b92ac3c3f1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863466 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+8d549a5643752bf4dd2ec3f38aa110b92ac3c3f1 57fe3fb861143cf741542b0c0135e5fe4aadfd5a piotrmajcher94 <piotr.majcher94@gmail.com> 1464863470 +0200	commit: Eclipse Automatic Commit
+57fe3fb861143cf741542b0c0135e5fe4aadfd5a b5ca6a99abb90ddccdae60b1facab6e0a050a701 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863481 +0200	commit: Eclipse Automatic Commit
+b5ca6a99abb90ddccdae60b1facab6e0a050a701 48e33d863c2ce7ef8598430886c47a9bf6642cc6 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863534 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+48e33d863c2ce7ef8598430886c47a9bf6642cc6 94c885f5fe003acf755fb9e5ff2728a3fcca1ba1 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863535 +0200	commit: Eclipse Automatic Commit
+94c885f5fe003acf755fb9e5ff2728a3fcca1ba1 3360a86ef37d9d10d51bbaedc701655cffcd6e05 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863537 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+3360a86ef37d9d10d51bbaedc701655cffcd6e05 3b78cde0a758e7d2a469832cf8be2fcb5d86f525 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863610 +0200	commit: Eclipse Automatic Commit
+3b78cde0a758e7d2a469832cf8be2fcb5d86f525 62b780bdd81078d3d525ec0ae63f369116eedca8 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863612 +0200	merge refs/remotes/eclipse_auto/master: Merge made by recursive.
+62b780bdd81078d3d525ec0ae63f369116eedca8 79c96ab9f8e4ede2ee8cc8ebd7a5d5719e0c070b piotrmajcher94 <piotr.majcher94@gmail.com> 1464863613 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+79c96ab9f8e4ede2ee8cc8ebd7a5d5719e0c070b 1ef70b22a7041bba69565d7e1296b0df7c7f639c piotrmajcher94 <piotr.majcher94@gmail.com> 1464863619 +0200	merge refs/remotes/eclipse_auto/master: Fast-forward
+1ef70b22a7041bba69565d7e1296b0df7c7f639c 7d36494ffe40dde2cbef95adf17915b9f4808ce9 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863626 +0200	commit: Eclipse Automatic Commit
+7d36494ffe40dde2cbef95adf17915b9f4808ce9 8fd6468a7338ba5831552a71da7cdc19e9b7b024 piotrmajcher94 <piotr.majcher94@gmail.com> 1464863630 +0200	commit: Eclipse Automatic Commit
